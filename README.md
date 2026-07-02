@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/0258-add-digits) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
