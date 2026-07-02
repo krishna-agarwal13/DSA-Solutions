@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/0136-single-number) |
 | [3024-type-of-triangle](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/3024-type-of-triangle) |
 ## Dynamic Programming
 |  |
