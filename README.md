@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3024-type-of-triangle](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/3024-type-of-triangle) |
 ## Dynamic Programming
