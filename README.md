@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/0283-move-zeroes) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3024-type-of-triangle](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/3024-type-of-triangle) |
@@ -48,10 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/0268-missing-number) |
 | [3024-type-of-triangle](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/3024-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
@@ -80,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |
