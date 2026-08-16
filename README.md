@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/0136-single-number) |
+| [0209-minimum-size-subarray-sum](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [3024-type-of-triangle](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/3024-type-of-triangle) |
 ## Dynamic Programming
 |  |
@@ -70,4 +71,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/0509-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
