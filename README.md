@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0344-reverse-string](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/0344-reverse-string) |
 ## Memoization
 |  |
