@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/0283-move-zeroes) |
@@ -55,12 +56,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/0268-missing-number) |
 | [3024-type-of-triangle](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/3024-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## String
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
 |  |
@@ -108,4 +112,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/0075-sort-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/krishna-agarwal13/DSA-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
